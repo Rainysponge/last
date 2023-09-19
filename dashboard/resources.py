@@ -232,7 +232,7 @@ class DataManager(Dropdown):
                     name="upload_dataset",
                     method=_enums.Method.GET,
                     ajax=False,
-                    class_="btn-primary",
+                    class_="btn-dark",
                 )
             ]
 
